@@ -1,5 +1,5 @@
 # ComputationalVision_Project
- Arezou Ranjbarpour Maralani, Lorenzo Tibaldi and Momina Sajid submission for the Computatinal Vision exam
+ Arezou Ranjbarpour Maralani, Lorenzo Tibaldi and Momina Sajid for the Computatinal Vision 
 
  The project is about Exploring Image Embeddings, Transfer Learning, Fine Tuning of the models, 3D Visualization of Intermediate Features and using Silhoutte Score.
  
